@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'PayUMoney-Angular6';
+  title = 'PayUMoney Integration with Angular 6 & NodeJS';
 }
